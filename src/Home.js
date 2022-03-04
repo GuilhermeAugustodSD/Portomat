@@ -11,7 +11,9 @@ export default function Home (){
             <Image source={logo} style={estilo.logo}/>
             <Text style={estilo.h1}>Portomat</Text>
             </View>
-            <Text style={estilo.p2}>Solicitar uma visita para orçamento</Text>
+            <Text style={estilo.p2}>Solicitar uma visita para orçamentossssssssssss</Text>
+            <Text style={estilo.p2}>Solicitar uma visita para merda buceta</Text>
+            <Text style={estilo.p2}>iiii oia lá, qyannaaa</Text>
             <View style={estilo.rodape}>
             <Text style={estilo.p}>Nós da Portomat agradecemos a preferência</Text>
             <Image source={logo} style={estilo.rodapeLogo}/>
