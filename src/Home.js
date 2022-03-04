@@ -5,23 +5,17 @@ import logo from '../assets/logo.png';
 import topo from '../assets/topo.png';
 export default function Home (){
     return  <>
-            
+
             <View >
             <Image source={topo} style={estilo.topo}/>
             <Image source={logo} style={estilo.logo}/>
             <Text style={estilo.h1}>Portomat</Text>
             </View>
-<<<<<<< HEAD
-            <Text style={estilo.p2}>Solicitar uma visita para orçamentossssssssssss</Text>
-            <Text style={estilo.p2}>Solicitar uma visita para merda buceta</Text>
-            <Text style={estilo.p2}>iiii oia lá, qyannaaa</Text>
-=======
 
             <Text style={estilo.p2}>Solicitar uma visita para orçamento</Text>
             <Text style={estilo.p2}>Solicitar fa visita para asdasd</Text>
             <Text style={estilo.p2}>1234</Text>
 
->>>>>>> b219841e86d48148902e03bef8b75f165089173d
             <View style={estilo.rodape}>
             <Text style={estilo.p}>Nós da Portomat agradecemos a preferência</Text>
             <Image source={logo} style={estilo.rodapeLogo}/>
@@ -50,18 +44,18 @@ const estilo = StyleSheet.create({
         padding:10,
         fontFamily: 'MontRegular',
     },
-   
+
     logo:{
         position:'absolute',
         width: 100,
         height: 100,
         marginHorizontal: 155,
         margin:85,
-        
-       
-        
+
+
+
     },
-   
+
     p:{
         color:'#a3a3a3',
         lineHeight: 30,
@@ -81,5 +75,3 @@ const estilo = StyleSheet.create({
         textAlign: 'center',
     }
 })
-
-
