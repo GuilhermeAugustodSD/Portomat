@@ -13,7 +13,7 @@ export default function Home (){
             </View>
 
             <Text style={estilo.p2}>Solicitar uma visita para orçamento</Text>
-            <Text style={estilo.p2}>Solicitar fa visita para asdasd</Text>
+            <Text style={estilo.p2}>Te amo seu merda</Text>
             <Text style={estilo.p2}>1234</Text>
 
             <View style={estilo.rodape}>
